@@ -16,7 +16,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 }
 /**
  * powOperacion - function to calculate the power of x number y times
- * @varible_x: number
+ * @variable_x: number
  * @variable_y: number
  * Return: power result
  */
